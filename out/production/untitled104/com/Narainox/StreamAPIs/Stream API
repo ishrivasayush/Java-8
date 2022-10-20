@@ -1,0 +1,15 @@
+Stream API
+-These stream Api introduced in 1.8 version.
+-It is related to collection Framework.
+-These stream is differ from the IO Stream-Sequence of data to reading and writing the data.
+-Its help us to process the bulk of group of data.
+-Stream API is basically perform bulk operation and process the Objects of collection.
+- Reduce the code length.
+
+-For Getting the object of stream we use stream().
+-It is a just a interface which is present in java util package
+
+how to create Stream
+-We can't create the object of stream interface
+
+
